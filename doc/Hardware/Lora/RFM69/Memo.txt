@@ -1,0 +1,4 @@
+11:24 PM 4/6/2018
+สร้าง Test2 ตาม
+https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module/using-the-rfm69-radio
+
